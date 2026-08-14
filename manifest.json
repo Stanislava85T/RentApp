@@ -2,7 +2,7 @@
   "name": "Наем и Имоти",
   "short_name": "Наем и Имоти",
   "description": "Управление на наеми за частни лица",
-  "start_url": "./rental-manager.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#E7F5EF",
   "theme_color": "#1E2A3A",
